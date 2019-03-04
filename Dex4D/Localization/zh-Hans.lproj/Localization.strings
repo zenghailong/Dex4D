@@ -1,0 +1,268 @@
+/* 
+  Localization.strings
+  Dex4D
+
+  Created by ColdChains on 2018/10/29.
+  Copyright © 2018 龙. All rights reserved.
+*/
+"24h Change" = "24小时涨跌";
+"%d Transaction failed" = "%d笔交易失败";
+"%d Dex4D failed transaction happened. Click for more information" = "Dex4D发生%d笔失败交易，点击查看详细信息";
+// A
+"Authority" = "权限";
+"Acailable wallet amount: %@" = "可用钱包余额: %@";
+"Address" = "钱包地址";
+"Asset" = "资产";
+"Actual Tx Cost/Fee" = "实际交易费用";
+"Add bookmark success" = "添加书签成功";
+"About" = "关于";
+" amount" = "数量";
+"Add bookmark" = "添加书签";
+"Available Withdrawal amount: " = "可提现资产：";
+"Address mismatched" = "地址不匹配";
+"Address form error" = "地址格式错误";
+"All" = "全部";
+"Advisor" = "使";
+"available D4D amount" = " D4D可用额: ";
+"Advisor tips" = "大使阶段，距离结束还有 %@";
+// B
+"Browser" = "浏览器";
+"Backup Keystore" = "备份Keystore文件";
+"Insufficient tokens" = "余额不足";
+"Buy" = "买入";
+"BookMark" = "书签";
+"Bookmark/History" = "书签/历史";
+"Buy amount" = "购买数量";
+// C
+"Cancel" = "取消";
+"Currency" = "法币";
+"Confirm" = "确认";
+"Create your PIN" = "创建PIN码";
+"Confirm your PIN" = "确认PIN码";
+"Continue" = "下一步";
+"Check that you wrote it down correctly so you can protect your money." = "检验您抄写下的助记词是否正确以便正常保护钱包安全。";
+"Check memoric" = "查看助记词";
+"Current D4D amount: %@" = "当前D4D数量: %@";
+"Copy link" = "复制链接";
+"Copy address" = "复制地址";
+"Copied" = "已复制";
+"Copy" = "复制";
+"Current Version" = "当前版本";
+"Create Wallet..." = "创建钱包...";
+"Confirm password" = "确认密码";
+"Create Wallet failed" = "创建钱包失败";
+"Camera not detected" = "未检测到摄像头";
+"Coin" = "交易对";
+"Clear cache" = "清除缓存";
+"Clear success" = "清除成功";
+"Clear browser cache" = "清除浏览器缓存";
+"Connected cellular mobile network" = "已连接移动网络";
+"Connected WIFI" = "已连接WIFI";
+"Create nonce failed" = "创建二维码失败";
+"Code state error" = "状态错误";
+// D
+"Dex4D" = "Dex4D";
+"Done" = "完成";
+"Dex4D is a app on your phone. If you lose your phone, you can access your account with a wallet recovery phrase very easily." = "Dex4D是您手机上的一款应用。如果手机丢失，您可以在其他手机上通过助记词导入的方式恢复钱包内的财产。";
+"Dex4D app is an referral application and you won't be able to experience it if you don't have an referral link." = "使用Dex4D app前必须受到邀请";
+"D4D Account" = "D4D账户信息";
+"D4D balance" = "D4D余额";
+"D4D asset" = "D4D资产";
+"D4D amount" = "D4D数量";
+"Delete" = "删除";
+"Delist" = "退";
+"D4D balance" = "D4D余额";
+"Duplicate nonce" = "重复二维码";
+"Delist. Only history price provided" = "已退市，仅可查看历史价格";
+// E
+"Enter phrase" = "输入助记词";
+"Export error" = "导出失败";
+"Edit" = "编辑";
+// F
+"Finished" = "完成";
+"From" = "放款地址";
+"Failed to connect to server" = "连接服务器失败";
+"Failed to get data" = "获取数据失败";
+"Find new version" = "发现新版本";
+"Failed" = "失败";
+// G
+"GAS consumption: %@ ETH" = "GAS消耗：%@ ETH";
+"GAS consumption" = "Gas消耗";
+// H
+"Hide" = "隐藏";
+"History" = "交易记录";
+"Help center" = "帮助中心";
+"History" = "历史";
+// I
+"Incorrect PIN" = "密码错误";
+"Import with keystore" = "Keystore文件导入";
+"Import with memoric" = "助记词导入";
+"Input password" = "输入密码";
+"Importing wallet..." = "导入钱包...";
+"Import wallet failed" = "导入钱包失败";
+"Input your PIN" = "输入PIN码";
+"Invitation code" = "邀请码";
+"Invalid Invitation code" = "无效的邀请码";
+"Input amount" = "输入金额";
+"Invalid address" = "地址无效";
+"Invalid amount" = "数量无效";
+// J
+
+// K
+"Keystore" = "Keystore文件";
+// L
+"Language" = "语言";
+"Last price: %@ Estimate!!!" = "当前价：%@ 预估";
+"Long press to save" = "长按保存图片";
+"Login success" = "登录成功";
+"Login failed" = "登录失败";
+"Login in Web with your app only sendyour address. \nYou can sign transaction with private key on your mobile safely" = "使用APP进行网页端登录只上传您的钱包地址\n您可以使用移动端私钥进行交易签名";
+// M
+"Me" = "我的";
+"My referral code" = "我的推荐码";
+// N
+"Not available, \nplease go to “Me > Authority > Swap“ \nto see more details" = "权限未开通, \n请在 “我的 > 权限 > 对倒“ \n查看更多权限相关细节";
+"No data" = "暂无数据";
+"Not available" = "不可用";
+"Network not connected" = "网络未连接";
+"New" = "新";
+"Nonce not exist" = "二维码不存在";
+"New coin, Swap option is not available" = "新上市，合约处于对倒未开启状态";
+// O
+"OK" = "确定";
+"Owning %@ D4D or Paying %@ ETH unlocks the Masternode/Referral system" = "持有%@个D4D或支付%@ETH可开通推荐主节点权限";
+"Owning %@ D4D or Paying %@ ETH unlocks the Swap transaction masternode" = "持有%@个D4D或支付%@ETH可开通对倒交易权限";
+// P
+"Protect your asset before it's too late!" = "在危险降临前保护好您的财产";
+"Phrase is wrong" = "助记词错误";
+"Pay %@ ETH to become Permanent %@ masternode" = "支付%@ETH成为永久%@主节点";
+"Pay %@ ETH" = "支付%@ETH";
+"Please input your memoric phrase to restore your wallet or import your wallet(Typically 12, separately with blank)" = "请输入您的助记词恢复钱包或导入钱包（以空格间隔的12个助记词）";
+"Please input your keystore file to restore your wallet or import your wallet" = "请输入您的Keystore文件恢复或导入钱包";
+"Please enter your invitation code" = "请输入您的邀请码";
+"PIN not match" = "密码不匹配";
+"Please select token" = "请选择币种";
+"Please input amount" = "请输入数量";
+"Permanent available" = "永久可用";
+"Please go -> [Settings-privacy-camera-Dex4D] opens camera privileges" = "请去->[设置-隐私-相机-Dex4D]打开相机权限";
+"Please go -> [Settings-privacy-Photos-Dex4D] opens photos privileges" = "请去->[设置-隐私-相册-Dex4D]打开相册权限";
+"Please input number" = "请输入数字";
+"Price" = "当前价格";
+"Photos" = "相册";
+"Paid" = "已支付";
+"Pending" = "待确认";
+"Pay success" = "支付成功";
+"Pay failed" = "支付失败";
+"Payment pending" = "交易待确认";
+// Q
+"QR code expired" = "二维码无效";
+"QR code timeout" = "二维码已过期";
+// R
+"Restore" = "导入钱包";
+"Remind me later" = "稍后再说";
+"Referral" = "推荐";
+"referral" = "推荐";
+"Restore wallet" = "导入钱包";
+"Receive" = "收款";
+"Receive address" = "收款地址";
+"Referral address" = "推荐地址";
+"Register your referral address(Begin with letter)" = "注册自定义推荐地址（请以字母开头）";
+"Referral code" = "查看推荐码";
+"%@ can't be empty" = "%@不能为空";
+"%@ is illegal" = "%@不合法";
+"%@ already exists" = "%@已存在";
+"Realized token" = "变现资产";
+"Ref dividends" = "推荐分红";
+"Reinvest" = "再投资";
+"Reinvest balance" = "再投资可用额";
+"Receive: " = "可得：";
+"Reload" = "重新加载";
+"Reject" = "取消";
+"Regular" = "常";
+"Reinvest amount" = "再投资数量";
+// S
+"Start" = "开始";
+"Setting" = "设置";
+"Security" = "安全";
+"Swap" = "对倒";
+"swap" = "对倒";
+"Save to photo Librany" = "保存到相册";
+"Share QR Code" = "分享二维码";
+"Saved" = "已保存";
+"Send" = "转账";
+"Select token" = "选择币种";
+"Send address invalid" = "转账地址无效";
+"Scan result" = "扫描结果";
+"Sell" = "卖出";
+"Spend: " = "花费：";
+"Swap asset" = "对倒可得资产";
+"Send amount" = "转出数量";
+"Set amount" = "设置金额";
+"Save image" = "保存图片";
+"Send failure" = "发送失败";
+"Scanning time" = "扫描时间";
+"Sell amount" = "卖出数量";
+"Sign verify failed" = "数据校验失败";
+"Send transaction failed" = "发送交易失败";
+"Success" = "成功";
+"Status" = "状态";
+"SunDown" = "清";
+"See" = "查看";
+"Sun down tips" = "清盘中，距离退市还有 %@";
+"Scan" = "扫一扫";
+
+// T
+"Total asset (%@)" = "资产总值 (%@)";
+"Token amount" = "通证数量";
+"Token select" = "币种选择";
+"To" = "收款地址";
+"TxsHash" = "交易哈希";
+"The results of your scan are as follows：" = "您扫描的结果如下：";
+"Temporary available" = "临时可用";
+"Total capital(All pools)" = "总资产折合(全池)";
+"Total Token balance" = "通证总资产";
+"Total D4D balance" = "D4D总资产";
+"The QRCode can be automatically scanned in the box." = "将二维码放入框内, 即可自动扫描";
+"Transaction" = "交易记录";
+"Trade" = "交易";
+"Txs dividends" = "交易分红";
+"Total Volume" = "交易量: ";
+"Total Dividends" = "累计分红";
+"Total" = "全选";
+"This is last version" = "当前为最新版本";
+"Transaction Pending" = "笔待确认交易";
+"Token balance" = "通证资产";
+"The nonce has been bound" = "二维码已被绑定";
+"This transcation already finished" = "交易已经完成";
+"Transaction.pending" = "等待";
+"Type" = "类型";
+"Token balance" = "通证余额";
+"Transaction failed" = "交易失败";
+"This is the last version" = "当前为最新版本";
+// U
+"Unable to open camera" = "无法打开相机";
+"Unable to save image" = "无法保存图片";
+"Unnamed title" = "未命名标题";
+"Unknown network" = "未知网络";
+"Upload your address to login" = "上传钱包地址登录";
+"Upgrade now" = "升级";
+"Unknow error" = "未知错误";
+// V
+"Version" = "版本";
+// W
+"Wallet" = "钱包";
+"Write down your recovery phrase and keep it in a safe place. Dex4D team cannot reset it or recover your money for you." = "写下助记词并保存在安全的地方，Dex4D团队无法帮您重置助记词，恢复您应用内的资产。";
+"Wallet balance" = "钱包余额";
+"Withdraw" = "提现";
+"Withdraw amount" = "提现数量";
+"Wrong input" = "输入有误";
+"Web login" = "网页登录";
+"Waiting" = "等待确认";
+// X
+
+// Y
+"You have permanent %@ authority now. Enjoy to trade with your %@" = "您当前已开通永久%@权限，畅想%@权限吧";
+"Your new keystore file in JSON format generate with password you just input as shown below. Please keep it in safe place. You can import your wallet with this keystore file and it's password" = "您刚输入的密码创建出了JSON格式的新Keystore文件，请妥善保存。您可通过密码和Keystore文件导入恢复钱包";
+"You have paid for permanent %@ authority\nPlease be more patient before Ethereum confirm this trasaction" = "您已经支付永久%@权限，请耐心等待以太坊交易确认";
+"You have signed onto web Dex4D" = "您已登录网页端Dex4D";
+// Z

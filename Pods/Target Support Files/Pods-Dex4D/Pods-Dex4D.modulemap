@@ -1,0 +1,6 @@
+framework module Pods_Dex4D {
+  umbrella header "Pods-Dex4D-umbrella.h"
+
+  export *
+  module * { export * }
+}

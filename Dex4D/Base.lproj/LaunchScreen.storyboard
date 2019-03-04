@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch_background" translatesAutoresizingMaskIntoConstraints="NO" id="d7D-kY-uJi">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="welcome_logo" translatesAutoresizingMaskIntoConstraints="NO" id="cuI-Uz-5Ek">
+                                <rect key="frame" x="150.5" y="156" width="74" height="74"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo_text" translatesAutoresizingMaskIntoConstraints="NO" id="52Q-Bk-ixE">
+                                <rect key="frame" x="145" y="254" width="85" height="22"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Welcome to Dex4D New Dimensions" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qbb-Dq-hTf">
+                                <rect key="frame" x="70" y="610" width="235" height="17"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="d7D-kY-uJi" secondAttribute="trailing" id="A8h-Z1-pfg"/>
+                            <constraint firstItem="d7D-kY-uJi" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="DGd-3R-SGC"/>
+                            <constraint firstItem="cuI-Uz-5Ek" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="Tu9-8P-eYc"/>
+                            <constraint firstItem="52Q-Bk-ixE" firstAttribute="top" secondItem="cuI-Uz-5Ek" secondAttribute="bottom" constant="24" id="WE2-GS-A3e"/>
+                            <constraint firstItem="cuI-Uz-5Ek" firstAttribute="centerX" secondItem="52Q-Bk-ixE" secondAttribute="centerX" id="WUE-SA-LvI"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Qbb-Dq-hTf" secondAttribute="bottom" constant="40" id="YT4-bZ-ZxC"/>
+                            <constraint firstAttribute="bottom" secondItem="d7D-kY-uJi" secondAttribute="bottom" id="qN9-YW-RFj"/>
+                            <constraint firstItem="cuI-Uz-5Ek" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="136" id="usF-Yu-unf"/>
+                            <constraint firstItem="d7D-kY-uJi" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="wMQ-FC-jCV"/>
+                            <constraint firstItem="Qbb-Dq-hTf" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="wVY-vJ-Zeb"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.66266866566718"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="launch_background" width="375" height="667"/>
+        <image name="logo_text" width="85" height="22"/>
+        <image name="welcome_logo" width="74" height="74"/>
+    </resources>
+</document>

@@ -1,0 +1,268 @@
+/* 
+  Localization.strings
+  Dex4D
+
+  Created by ColdChains on 2018/10/29.
+  Copyright © 2018 龙. All rights reserved.
+*/
+"24h Change" = "24h Change";
+"%d Transaction failed" = "%d Transaction failed";
+"%d Dex4D failed transaction happened. Click for more information" = "%d Dex4D failed transaction happened. Click for more information";
+// A
+"Authority" = "Authority";
+"Acailable wallet amount: %@" = "Acailable wallet amount: %@";
+"Address" = "Address";
+"Asset" = "Asset";
+"Actual Tx Cost/Fee" = "Actual Tx Cost/Fee";
+"Add bookmark success" ="Add bookmark success";
+"About" = "About";
+" amount" = " amount";
+"Add bookmark" = "Add bookmark";
+"Available Withdrawal amount: " = "Available Withdrawal amount: ";
+"Address mismatched" = "Address mismatched";
+"Address form error" = "Address form error";
+"All" = "All";
+"Advisor" = "A";
+"available D4D amount" = " available D4D amount: ";
+"Advisor tips" = "Advisor purchase stage. %@ away from closing";
+// B
+"Browser" = "Browser";
+"Backup Keystore" = "Backup Keystore";
+"Insufficient tokens" = "Insufficient tokens";
+"Buy" = "Buy";
+"BookMark" = "BookMark";
+"Bookmark/History" = "Bookmark/History";
+"Buy amount" = "Buy amount";
+// C
+"Cancel" = "Cancel";
+"Currency" = "Currency";
+"Confirm" = "Confirm";
+"Create your PIN" = "Create your PIN";
+"Confirm your PIN" = "Confirm your PIN";
+"Continue" = "Continue";
+"Check that you wrote it down correctly so you can protect your money." = "Check that you wrote it down correctly so you can protect your money.";
+"Check memoric" = "Check memoric";
+"Current Dex4D amount: %@" = "Current Dex4D amount: %@";
+"Copy link" = "Copy link";
+"Copy address" = "Copy address";
+"Copied" = "Copied";
+"Copy" = "Copy";
+"Current Version" = "Current Version";
+"Create Wallet..." = "Create Wallet...";
+"Confirm password" = "Confirm password";
+"Create Wallet failed" = "Create Wallet failed";
+"Camera not detected" = "Camera not detected";
+"Coin" = "Coin";
+"Clear cache" = "Clear cache";
+"Clear success" = "Clear success";
+"Clear browser cache" = "Clear browser cache";
+"Connected cellular mobile network" = "Connected cellular mobile network";
+"Connected WIFI" = "Connected WIFI";
+"Create nonce failed" = "Create nonce failed";
+"Code state error" = "Code state error";
+// D
+"Dex4D" = "Dex4D";
+"Done" = "Done";
+"Dex4D is a app on your phone. If you lose your phone, you can access your account with a wallet recovery phrase very easily." = "Dex4D is a app on your phone. If you lose your phone, you can access your account with a wallet recovery phrase very easily.";
+"Dex4D app is an referral application and you won't be able to experience it if you don't have an referral link." = "Dex4D app is an referral application and you won't be able to experience it if you don't have an referral link.";
+"D4D Account" = "D4D Account";
+"D4D balance" = "D4D balance";
+"D4D asset" = "D4D balance";
+"D4D amount" = "D4D amount";
+"Delete" = "Delete";
+"Delist" = "D";
+"D4D balance" = "D4D balance";
+"Duplicate nonce" = "Duplicate nonce";
+"Delist. Only history price provided" = "Delist. Only history price provided";
+// E
+"Enter phrase" = "Enter phrase";
+"Export error" = "Export error";
+"Edit" = "Edit";
+// F
+"Finished" = "Finished";
+"From" = "From";
+"Failed to connect to server" = "Failed to connect to server";
+"Failed to get data" = "Failed to get data";
+"Find new version" = "Find new version";
+"Failed" = "Failed";
+// G
+"GAS consumption: %@ ETH" = "GAS consumption: %@ ETH";
+"GAS consumption" = "GAS consumption";
+// H
+"Hide" = "Hide";
+"History" = "History";
+"Help center" = "Help center";
+"History" = "History";
+// I
+"Incorrect PIN" = "Incorrect PIN";
+"Import with keystore" = "Import with keystore";
+"Import with memoric" = "Import with memoric";
+"Input password" = "Input password";
+"Importing wallet..." = "Importing wallet...";
+"Import wallet failed" = "Import wallet failed";
+"Input your PIN" = "Input your PIN";
+"Invitation code" = "Invitation code";
+"Invalid Invitation code" = "Invalid Invitation code";
+"Input amount" = "Input amount";
+"Invalid address" = "Invalid address";
+"Invalid amount" = "Invalid amount";
+// J
+
+// K
+"Keystore" = "Keystore";
+// L
+"Language" = "Language";
+"Last price: %@ Estimate!!!" = "Last price: %@ Estimate!!!";
+"Long press to save" = "Long press to save";
+"Login success" = "Login success";
+"Login failed" = "Login failed";
+"Login in Web with your app only sendyour address. \nYou can sign transaction with private key on your mobile safely" = "Login in Web with your app only sendyour address. \nYou can sign transaction with private key on your mobile safely";
+// M
+"Me" = "Me";
+"My referral code" = "My referral code";
+// N
+"Not available, \nplease go to “Me > Authority > Swap“ \nto see more details" = "Not available, \nplease go to “Me > Authority > Swap“ \nto see more details";
+"No data" = "No data";
+"Not available" = "Not available";
+"Network not connected" = "Network not connected";
+"New" = "N";
+"Nonce not exist" = "Nonce not exist";
+"New coin, Swap option is not available" = "New coin, Swap option is not available";
+// O
+"OK" = "OK";
+"Owning %@ D4D or Paying %@ ETH unlocks the Masternode/Referral system" = "Owning %@ D4D or Paying %@ ETH unlocks the Masternode/Referral system";
+"Owning %@ D4D or Paying %@ ETH unlocks the Swap transaction masternode" = "Owning %@ D4D or Paying %@ ETH unlocks the Swap transaction masternode";
+"Owning %@ D4D" = "Owning %@ D4D";
+// P
+"Protect your asset before it's too late!" = "Protect your asset before it's too late!";
+"Phrase is wrong" = "Phrase is wrong";
+"Pay %@ ETH to become Permanent %@ masternode" = "Pay %@ ETH to become Permanent %@ masternode";
+"Pay %@ ETH" = "Pay %@ ETH";
+"Please input your memoric phrase to restore your wallet or import your wallet(Typically 12, separately with blank)" = "Please input your memoric phrase to restore your wallet or import your wallet(Typically 12, separately with blank)";
+"Please input your keystore file to restore your wallet or import your wallet" = "Please input your keystore file to restore your wallet or import your wallet";
+"Please enter your invitation code" = "Please enter your invitation code";
+"PIN not match" = "PIN not match";
+"Please select token" = "Please select token";
+"Please input amount" = "Please input amount";
+"Permanent available" = "Permanent available";
+"Please go -> [Settings-privacy-camera-Dex4D] opens camera privileges" = "Please go -> [Settings-privacy-camera-Dex4D] opens camera privileges";
+"Please go -> [Settings-privacy-Photos-Dex4D] opens photos privileges" = "Please go -> [Settings-privacy-Photos-Dex4D] opens photos privileges";
+"Please input number" = "Please input number";
+"Price" = "Price";
+"Photos" = "Photos";
+"Paid" = "Paid";
+"Pending" = "Pending";
+"Pay success" = "Pay success";
+"Pay failed" = "Pay failed";
+"Payment pending" = "Payment pending";
+// Q
+"QR code expired" = "QR code expired";
+"QR code timeout" = "QR code timeout";
+// R
+"Restore" = "Restore";
+"Remind me later" = "Remind me later";
+"Referral" = "Referral";
+"referral" = "referral";
+"Restore wallet" = "Restore wallet";
+"Receive" = "Receive";
+"Receive address" = "Receive address";
+"Referral address" = "Referral address";
+"Register your referral address(Begin with letter)" = "Register your referral address(Begin with letter)";
+"Referral code" = "Referral code";
+"%@ can't be empty" = "%@ can't be empty";
+"%@ is illegal" = "%@ is illegal";
+"%@ already exists" = "%@ already exists";
+"Realized token" = "Realized token";
+"Ref dividends" = "Ref dividends";
+"Reinvest" = "Reinvest";
+"Reinvest balance" = "Reinvest balance";
+"Receive: " = "Receive: ";
+"Reload" = "Reload";
+"Reject" = "Reject";
+"Regular" = "R";
+"Reinvest amount" = "Reinvest amount";
+// S
+"Start" = "Start";
+"Setting" = "Setting";
+"Security" = "Security";
+"Swap" = "Swap";
+"swap" = "swap";
+"Save to photo Librany" = "Save to photo Librany";
+"Share QR Code" = "Share QR Code";
+"Saved" = "Saved";
+"Send" = "Send";
+"Select token" = "Select token";
+"Scan result" = "Scan result";
+"Sell" = "Sell";
+"Spend: " = "Spend: ";
+"Swap asset" = "Swap asset";
+"Send amount" = "Send amount";
+"Set amount" = "Set amount";
+"Save image" = "Save image";
+"Send failure" = "Send failure";
+"Scanning time" = "Scanning time";
+"Sell amount" = "Sell amount";
+"Sign verify failed" = "Sign verify failed";
+"Send transaction failed" = "Send transaction failed";
+"Success" = "Success";
+"Status" = "Status";
+"SunDown" = "S";
+"See" = "See";
+"Sun down tips" = "Sun down. %@ away from delist";
+"Scan" = "Scan";
+
+// T
+"Total asset (%@)" = "Total asset (%@)";
+"Token amount" = "Token amount";
+"Token select" = "Token select";
+"To" = "To";
+"TxsHash" = "TxsHash";
+"The results of your scan are as follows：" = "The results of your scan are as follows：";
+"Temporary available" = "Temporary available";
+"Total capital(All pools)" = "Total capital(All pools)";
+"Total Token balance" = "Total Token balance";
+"Total D4D balance" = "Total D4D balance";
+"The QRCode can be automatically scanned in the box." = "The QRCode can be automatically scanned in the box.";
+"Transaction" = "Transaction";
+"Trade" = "Trade";
+"Txs dividends" = "Txs dividends";
+"Total Volume" = "Total Volume: ";
+"Total Dividends" = "Total Dividends";
+"Total" = "Total";
+"This is last version" = "This is last version";
+"Transaction Pending" = " Transaction Pending";
+"Token balance" = "Token balance";
+"The nonce has been bound" = "The nonce has been bound";
+"This transcation already finished" = "This transcation already finished";
+"Transaction.pending" = "Pending";
+"Type" = "Type";
+"Token balance" = "Token balance";
+"Transaction failed" = "Transaction failed";
+"This is the last version" = "This is the last version";
+// U
+"Unable to open camera" = "Unable to open camera";
+"Unable to save image" = "Unable to save image";
+"Unnamed title" = "Unnamed title";
+"Unknown network" = "Unknown network";
+"Upload your address to login" = "Upload your address to login";
+"Upgrade now" = "Upgrade now";
+"Unknow error" = "Unknow error";
+// V
+"Version" = "Version";
+// W
+"Wallet" = "Wallet";
+"Write down your recovery phrase and keep it in a safe place. Dex4D team cannot reset it or recover your money for you." = "Write down your recovery phrase and keep it in a safe place. Dex4D team cannot reset it or recover your money for you.";
+"Wallet balance" = "Wallet balance";
+"Withdraw" = "Withdraw";
+"Withdraw amount" = "Withdraw amount";
+"Wrong input" = "Wrong input";
+"Web login" = "Web login";
+"Waiting" = "Waiting";
+// X
+
+// Y
+"You have permanent %@ authority now. Enjoy to trade with your %@" = "You have permanent %@ authority now. Enjoy to trade with your %@";
+"Your new keystore file in JSON format generate with password you just input as shown below. Please keep it in safe place. You can import your wallet with this keystore file and it's password" = "Your new keystore file in JSON format generate with password you just input as shown below. Please keep it in safe place. You can import your wallet with this keystore file and it's password";
+"You have paid for permanent %@ authority\nPlease be more patient before Ethereum confirm this trasaction" = "You have paid for permanent %@ authority\nPlease be more patient before Ethereum confirm this trasaction";
+"You have signed onto web Dex4D" = "You have signed onto web Dex4D";
+// Z
